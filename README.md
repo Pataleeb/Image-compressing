@@ -4,9 +4,9 @@ Image compressing using clustering
 Input
 • pixels: the input image representation. Each row contains one data point (pixel). For image dataset, it
 contains 3 columns, each column corresponding to Red, Green, and Blue components. Each component
-has an integer value between 0 and 255. \\
+has an integer value between 0 and 255. 
 
-• k: the number of desired clusters.\\
+• k: the number of desired clusters.
 
 Output
 
